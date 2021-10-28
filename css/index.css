@@ -1,0 +1,410 @@
+body,head, html {
+  height: 100%;
+  width:100%;
+}
+
+.booody{
+	background-image: url("image/desert.jpeg");
+	background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width:100%;
+}
+
+.body {
+  
+  background-image: url("image/lines.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width:100%;
+  
+}
+
+
+
+.img{
+width: 470px;
+height: 350px;
+position: relative;
+  right: -578px;
+  bottom: 473px;
+
+
+
+
+}
+.h1{
+  text-shadow: 1px 1px #ffffff;
+  font-size:30px;
+  color:gray;
+  position:relative;
+  background-image: url("image/yow.gif");
+  bottom: 15px;
+}
+
+
+ul {
+  width: 99%;
+  height: 301%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  opacity: 0.9;
+  border-radius: 5px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  font-family: times;
+  text-align: center;
+  padding: 4px 6px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+.divcus{
+width: 95%;
+  height: 10%;
+  border: 4px #383838;
+  padding: 1px;
+  border-radius: 5px;
+ 
+
+  z-index: 1;
+}
+.container .box
+{
+  position:relative;
+ overflow: hidden;
+ border-radius: 4px;
+ 
+}
+
+.container .box .imgBox img
+{
+  max-width: 100%;
+
+  transition: transform 2s;
+
+
+}
+.container .box:hover .imgBox img
+{
+  transform: scale(1.2);
+}
+.div1 {
+ 
+  width: 35%;
+  height: 305px;
+  border: 10px solid black;
+  padding: 0px;
+  border-radius: 10px;
+  box-shadow: 5px 5px #262626;
+  
+  position: relative;
+  margin: 5px;
+
+  box-sizing: border-box;
+  display: inline-block;
+  top: -20px;
+
+}
+.myDiv {
+border: 9px solid black;
+width: 300px;
+height: 322px;
+margin: 5px;
+border-radius: 3px;
+
+position: relative;
+
+}
+#page2{
+  background-image: url("image/wallpaper.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width:100%;
+ 
+}
+.text{
+  text-shadow: 0px 4px black;
+  font-size:30px; 
+  position: relative;
+  color: black;
+  border: 1px solid black;
+  color: #AACCFF;
+  width: 450px;
+  background-color:#222233;
+  bottom: 15px;
+  font-family: Arial;
+ 
+
+}
+.insert .put
+{
+ position:relative;
+ overflow: hidden;
+ border-radius: 4px;
+}
+.insert .put .boxes img
+{
+  max-width: 102%;
+
+  transition: transform 1s;
+
+}
+.insert .put:hover .boxes img{
+  transform: scale(1.5);
+}
+
+.daxtext{
+position: relative;
+color: white;
+
+font-size:20px; 
+ left: 350px;
+bottom: 1000px;
+  font-family: sans-serif;
+
+}
+
+
+.lopezdiv{
+  border: 9px solid black;
+width: 300px;
+height: 322px;
+margin: 5px;
+border-radius: 3px;
+
+position: relative;
+top: 300px;
+}
+
+.container1 .box1
+{
+position:relative;
+ overflow: hidden;
+ border-radius: 4px;
+}
+
+.container1 .box1 .img1 img
+{
+ max-width: 102%;
+
+  transition: transform 1s;
+}
+.container1 .box1:hover .img1 img{
+   transform: scale(1.5);
+}
+
+.lopeztext{
+  position: relative;
+color: white;
+
+font-size:20px; 
+ left: 350px;
+bottom: 500px;
+  font-family: sans-serif;
+}
+
+.tayuandiv{
+
+ border: 9px solid black;
+width: 300px;
+height: 322px;
+margin: 5px;
+border-radius: 3px;
+
+position: relative;
+top: 640px;
+
+
+}
+.container2 .box2
+{
+position:relative;
+ overflow: hidden;
+ border-radius: 4px;
+}
+
+.container2 .box2 .img2 img
+{
+ max-width: 102%;
+
+  transition: transform 1s;
+}
+
+.container2 .box2:hover .img2 img{
+   transform: scale(1.5);
+}
+.tayuantext{
+  position: relative;
+color: white;
+
+font-size:20px; 
+ left: 350px;
+bottom: 10px;
+  font-family: sans-serif;
+}
+
+
+
+
+#page3{
+  background-color: #e6e6e6;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width:100%;
+ 
+}
+
+
+.div{
+ color: solid black;
+background-color: solid black;
+width: 1200px;
+height: 40px;
+bottom: 10px;
+right: 20px;
+border-radius: 3px;
+
+position: relative;
+
+}
+.new{
+  float: left;
+
+  border: 10px solid darkred;
+  position:relative;
+  border-radius: 5px;
+  font-size:30px;
+box-shadow: 5px 5px #262626;
+ background-color: white;
+}
+.divs{
+  background-size: cover;
+border: 0px solid black;
+width: 400px;
+height: 340px;
+margin: 0px;
+border-radius: 1px;
+padding: 0px;
+position: relative;
+top: 5px;
+right: 3px;
+box-sizing: border-box;
+
+}
+.gif2{
+  position: relative;
+  height: 320px;
+  width: 120%;
+  border-radius: 3px;
+}
+.container3 .box3:hover .img3 img{
+   transform: scale(1.09);
+}
+
+ul.first{
+  width: 99%;
+  height: 10%;
+  list-style-type: none;
+  margin-left: 3rem;
+
+  background-color: #333;
+  opacity: 1;
+  border-radius: 5px;
+}
+.jay{
+  position:relative;
+  top: -200px;
+  background-color: white;
+ border-width: 10px;
+  font-family: arial;
+
+}
+.textbox .jay{
+  border: 1px solid darkgray;
+  position:relative;
+  border-radius: 5px;
+  font-size:30px;
+box-shadow: 1px 4px #262626;
+ opacity: 0.9;
+ width: 500px;
+background-blend-mode: 40px;
+position:relative;
+top: -360px;
+right: -150px;
+}
+
+.sana{
+ position: relative;
+ top: -23px;
+
+}
+.boxx{
+  background-image: url("image/logo.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 1000px;
+  border: 8px solid gray;
+  padding: 50px;
+  margin: 20px;
+  position: relative;
+  top: -42px;
+  border-radius: 3px;
+}
+.gif2{
+  position: relative;
+  right:-50px;
+}
+.boxxy{ position: relative;
+  margin: 10px;
+  padding: 3px;
+    border: 2px solid darkgray;
+background-color: white;
+  opacity: 0.9;
+  width: 50%;
+  bottom: 60%;
+  left: 41%; 
+  border-radius: 20px;
+}
+.wrap-contact100{
+  top: 1000px;
+}
+ul.amaw{
+ width: 99%;
+  height: 5%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  opacity: 0.9;
+  border-radius: 5px;
+}
+.gif3{
+	 position: relative;
+  height: 320px;
+  width: 70%;
+  border-radius: 3px;
+  left:60px;
+}
+
+
+
+
+
+
